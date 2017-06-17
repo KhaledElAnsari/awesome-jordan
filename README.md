@@ -57,22 +57,21 @@ _Content odered alphabetically_
 * [ajax-ops](https://github.com/muayyad-alsadi/ajax-ops) - Declarative Ajax Operations
 * [Bootstrap RTL 2.x ](https://github.com/muayyad-alsadi/bootstrap-rtl/tree/master/2.x) - rtl support for twitter's bootstrap 2.x
 * [Bootstrap RTL 3.x ](https://github.com/muayyad-alsadi/bootstrap-rtl/tree/master/3.x) - rtl support for twitter's bootstrap 3.x
+* [RESTInTag](https://github.com/KhaledElAnsari/RESTInTag) - HTTP requests made easy from HTML tags
 * [DOMQL](http://amasad.github.io/DOMQL/) - "jQuery" for DBAs!
 * [Hellrazor.js](https://github.com/KhaledElAnsari/Hellrazor.js) - Create custom errors for your JavaScript projects
 * [Inferno-Milligram Boilerplate](https://github.com/KhaledElAnsari/inferno-milligram-boilerplate) - Minimal boilerplate for the web using the latest technologies.
 * [RtlCss](https://github.com/muayyad-alsadi/RtlCss) - Right-to-left override CSS Generator
 
+### Gists
+* [SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Recipes for writing awesome ssh config files.
+
 ## Java
 * [Neo4Reach](https://github.com/wael34218/neo4reach) - Reachability index extension for Neo4j graph database (inactive).
-
-
 
 ## Linux
 * [Command Line Push Notifications](https://github.com/OsamaJBR/command-line-push-notification) - A simple script that could be added to the Linux system and give it the ability to push notifications to Android phone from the command line.
 * [oneway](https://github.com/muayyad-alsadi/oneway) - a no-way-back tool to drop privileges useful for docker entry-points
-
-### Gists
-* [SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Recipes for writing awesome ssh config files.
 
 ## NodeJS
 * [Azhan Jo](https://github.com/faressoft/azhan-jo) - Get azhan times in Amman.
@@ -87,7 +86,7 @@ _Content odered alphabetically_
 
 ## Python
 * [Diglett](https://github.com/OpenSooq/Diglett) - Diglett is a cron management system that manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.
-* [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command Edit
+* [Django Truncate](https://github.com/KhaledElAnsari/django-truncate) - A simple library to help you truncate your tables with one simple command
 * [Gloom](https://github.com/OpenSooq/Gloom) -  Gloom is an opensource service that takes long URLs and squeezes them into fewer characters to make a link that is easier to share, tweet, or email to friends.
 * [mockpy](https://github.com/nsomar/mockpy) - python command line utility to create development mock servers under Mac OS X easily.
 * [pyredis-dump](https://github.com/muayyad-alsadi/pyredis-dump) - A Redis dump/restore tool for long-term storage (currently Python Literals using [AST](https://docs.python.org/2/library/ast.html)) 
